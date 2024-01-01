@@ -5,5 +5,5 @@ Level 1 Project
 - Vowel Counter
 - Weight Tracker App
 - Recipes App
-- Note Taking App
+- Date and Time Annotation App
 - Rock, Paper and Scissor Game 

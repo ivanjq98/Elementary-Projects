@@ -1,0 +1,34 @@
+HTML Shortcut Keys:
+1) HTML Skeleton:
+Type ! and then press Tab to generate a basic HTML structure.
+
+2) Comment/Uncomment:
+To comment or uncomment a block of code, use Ctrl + K, Ctrl + C to comment, and Ctrl + K, Ctrl + U to uncomment.
+
+3) Navigate Between Tags:
+Use Ctrl + ] to jump between matching HTML tags.
+
+4)Format Document:
+Use Ctrl + K, Ctrl + D to automatically format the entire HTML document.
+
+CSS Shortcut Keys:
+1) CSS Skeleton:
+Type link and then press Tab to generate a basic CSS link tag.
+
+2) Comment/Uncomment:
+To comment or uncomment a block of CSS code, use Ctrl + K, Ctrl + C to comment, and Ctrl + K, Ctrl + U to uncomment.
+
+3) Go to Definition:
+Place the cursor on a CSS class or ID, then press F12 to go to its definition.
+
+4) Find All References:
+Select a CSS class or ID and use Shift + F12 to find all references in the project.
+
+5) IntelliSense:
+Use Ctrl + Space to trigger IntelliSense for CSS properties and values.
+
+6) Format Document:
+Use Ctrl + K, Ctrl + D to automatically format the entire CSS document.
+
+7) Toggle Comment on Line:
+To comment or uncomment a single line, use Ctrl + /.
